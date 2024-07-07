@@ -3,7 +3,7 @@
 
 Nora Cueto Mendoza<sup>1,2</sup>, José Fernando Vieira de Sousa<sup>2</sup>, João Pedro Perneta<sup>2</sup>, Ronny Adrián Meza<sup>3</sup>
 
-<sup>1</sup>University of Alicante, Spain; <sup>2</sup>Laboratório Regional de Engenharia Civil, Madeira Island, Portugal; <sup>3</sup>GIS4tech, Spin-Off of University of Granada, Granada, Spain
+<sup>1</sup>University of Alicante, Spain; <sup>2</sup>Laboratório Regional de Engenharia Civil, Madeira Island, Portugal; <sup>3</sup>University of Granada, Granada, Spain and GIS4tech, Spin-Off of the University of Granada, Granada, Spain
 
 ABSTRACT: 
 This study assesses the influence of petrophysical properties, petrographic features, and depth on capillary imbibition of basalts and lapillistones from the Upper and Middle
