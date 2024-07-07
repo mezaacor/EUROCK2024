@@ -1,19 +1,9 @@
 # EUROCK2024
  Capillary imbibition behaviour in volcanic rocks from Madeira Island, Portugal: preliminary results
 
-N. Cueto
-University of Alicante, Alicante, Spain
-Regional Laboratory for Civil Engineering, LREC, Madeira Island, Portugal
+Nora Cueto Mendoza<sup>1,2</sup>, José Fernando Vieira de Sousa<sup>2</sup>, João Pedro Perneta<sup>2</sup>, Ronny Adrián Meza<sup>3</sup>
 
-J.F. Vieira de Sousa
-Regional Laboratory for Civil Engineering, LREC, Madeira Island, Portugal
-
-J.P.S. Perneta
-Regional Laboratory for Civil Engineering, LREC, Madeira Island, Portugal
-
-R. Meza
-University of Granada, Granada, Spain
-GIS4tech, Spin-Off of the University of Granada, Granada, Spain
+<sup>1</sup>University of Alicante, Spain; <sup>2</sup>Laboratório Regional de Engenharia Civil, Madeira Island, Portugal; <sup>3</sup>GIS4tech, Spin-Off of University of Granada, Granada, Spain
 
 ABSTRACT: 
 This study assesses the influence of petrophysical properties, petrographic features, and depth on capillary imbibition of basalts and lapillistones from the Upper and Middle
